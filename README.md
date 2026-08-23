@@ -39,7 +39,7 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 
 * **[lehmannlock](https://lehmannlock.com/)**
   LaunchPage para cliente sobre bridas
- * **Tech:** Vue.js, Scss.
+  * **Tech:** Vue.js, Scss.
 
   
 
