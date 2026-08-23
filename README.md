@@ -35,8 +35,13 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 
 * **[omnitrk](https://omnitrk.qzz.io/)**  
   Plataforma de seguimiento e historial de portafolios de criptomonedas.
-  * **Tech:** Vue.js, Wagmi Adapter, Web3 API.
-  * **Deploy:** [Ver App en vivo](https://omnitrk.netlify.app) 
+  * **Tech:** Vue.js, Wagmi Adapter, Web3 API, Tailwind.
+
+* **[lehmannlock](https://lehmannlock.com/)**
+  LaunchPage para cliente sobre bridas
+ * **Tech:** Vue.js, Scss.
+
+  
 
 ---
 
