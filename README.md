@@ -1,4 +1,4 @@
-# ¡Hola! Soy Desarrollador Web con sede en España 👋
+# ¡Hola! Soy Desarrollador Web 
 
 Desarrollador de software especializado en desarrollo **Full Stack**, soluciones **Web3** e integración de **Modelos de Inteligencia Artificial (LLMs)**. Me enfoco en crear aplicaciones web modernas, funcionales y optimizadas, combinando arquitecturas sólidas con las herramientas más recientes.
 
@@ -33,10 +33,10 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 
 ### 🚀 Proyectos Destacados
 
-* **[omnitrk](https://github.com/TU-USUARIO/omnitrk)**  
+* **[omnitrk](https://omnitrk.qzz.io/)**  
   Plataforma de seguimiento e historial de portafolios de criptomonedas.
   * **Tech:** Vue.js, Wagmi Adapter, Web3 API.
-  * **Deploy:** [Ver App en vivo](https://omnitrk.netlify.app) *(sustituye con tu enlace real)*
+  * **Deploy:** [Ver App en vivo](https://omnitrk.netlify.app) 
 
 ---
 
