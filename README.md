@@ -55,7 +55,9 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=horilka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horilka&theme=tokyonight&hide_border=true" alt="Activity Graph" width="96%" />
+</p>
 ---
 
 📫 **Contacto:** Revisa mis proyectos fijados aquí abajo o explora mis repositorios públicos.
