@@ -48,17 +48,14 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horilka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horilka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full+Stack+%2B+Web3+Developer;LLMs+%26+Local+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://ghchart.rshah.org/7aa2f7/horilka" alt="Gráfica de contribuciones de horilka" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=horilka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horilka&theme=tokyonight&hide_border=true" alt="Activity Graph" width="96%" />
-  ![Visitas](https://komarev.com/ghpvc/?username=horilka&color=7aa2f7&style=for-the-badge)
-</p>
+
 ---
 
 📫 **Contacto:** Revisa mis proyectos fijados aquí abajo o explora mis repositorios públicos.
