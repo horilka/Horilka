@@ -57,6 +57,7 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=horilka&theme=tokyonight&hide_border=true" alt="Activity Graph" width="96%" />
+  ![Visitas](https://komarev.com/ghpvc/?username=horilka&color=7aa2f7&style=for-the-badge)
 </p>
 ---
 
