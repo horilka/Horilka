@@ -53,7 +53,7 @@ Experiencia práctica trabajando con **LLMs locales** (Ollama, LM Studio) e inte
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horilka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=horilka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
